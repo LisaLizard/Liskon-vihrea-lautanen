@@ -9,21 +9,21 @@ h1 {
 
 #tunnus {vertical-align: middle;}
 .korostus {color: #3B7A57;}
-.kuva {width: 80 %;
-        max-width: 400 px;
+.kuva {width: 80%;
+        max-width: 400px;
         display: block;
         margin: auto;
-        border-radius: 5 px;
+        border-radius: 5px;
 }
 
 /*navigointi*/
 
 #topnav li{display: inline-block;
-    padding-left: 5 px;
+    padding-left: 5px;
     padding-right: 5 px;
 }
 
-#topnav ul{padding-left: 0 px;}
+#topnav ul{padding-left: 0px;}
 #topnav a{text-decoration: none}
 #topnav {text-align:center;
 color:#3B7A57;}
@@ -37,12 +37,12 @@ color:#3B7A57;}
 }
 
 .logo {
-    width: 300 px; 
+    width: 300px; 
     height: auto;
 }
 
 .logo{
-    width: 300 px; 
+    width: 300px; 
     height: auto;
     cursor: pointer;
 }
@@ -53,13 +53,13 @@ color:#3B7A57;}
 }
 
 .menu-icon {
-    width: 40 px; 
+    width: 40px; 
     height: auto;
 }
 
 
 .menu-icon {
-    width: 40 px;
+    width: 40px;
     height: auto;
     cursor: pointer;
 }
@@ -69,16 +69,16 @@ color:#3B7A57;}
     display: none;
     flex-direction: column;
     position: absolute;
-    top: 60 px;
-    right: 20 px;
+    top: 60px;
+    right: 20px;
     background: #FAF3E0;
-    border-radius: 5 px;
-    box-shadow: 0 0 10 px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 .menu li {
-    padding: 10 px 20 px;
-    border-bottom: 1 px solid #ddd;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ddd;
 }
 
 .menu li:last-child {
